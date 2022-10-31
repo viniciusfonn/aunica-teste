@@ -1,6 +1,8 @@
 Uma empresa de serviços de assinatura possui uma página online e gostaria de saber quantas pessoas estão chegando em seu site, além disso, eles gostariam de saber quantas pessoas estão clicando em seus planos de assinatura.
 
-Dado o seguinte site, crie uma conta do google tag manager e google analytics 4, instale ambos no site e capture os eventos que achares necessários.
+Dado o seguinte site, crie uma conta no Google Analytics 4, após isso instale via Google Tag Manager no site e crie os eventos de click que achares necessário.
+
+**O Google Tag Manager já se encontra instalado no site, foi concedido acesso ao seu e-mail.
 
 
 Alguns materiais de apoio:
